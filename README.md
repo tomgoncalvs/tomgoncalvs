@@ -77,9 +77,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/tomgoncalvs/tomgoncalvs/output/snake.svg" alt="Snake animation" />
-
-###
